@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "",
+      "UnauthRoleArn": "",
+      "AuthRoleArn": "",
+      "Region": "",
+      "DeploymentBucketName": "",
+      "UnauthRoleName": "",
+      "StackName": "",
+      "StackId": "",
+      "AmplifyAppId": ""
+    },
+    "categories": {
+      "auth": {
+        "demoe124b746": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "graphqlapi",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-demo-dev-12150-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/ad10cd369be53af811c0cf7fa7c58ee687e99551"
+}
